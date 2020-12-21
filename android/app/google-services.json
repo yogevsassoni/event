@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "722070310579",
+    "firebase_url": "https://rofl-684b1.firebaseio.com",
+    "project_id": "rofl-684b1",
+    "storage_bucket": "rofl-684b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722070310579:android:9ba664535e346e27a72ac6",
+        "android_client_info": {
+          "package_name": "com.rofl.rofl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722070310579-fhvnf8a3rgfrnmfecms34ic66gq7sg68.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rofl.rofl",
+            "certificate_hash": "5324d4088e8565789d9eab5d6247c1fc825cee1a"
+          }
+        },
+        {
+          "client_id": "722070310579-4gkn51ppf3jbvrllgha8u9m7htm3612t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQVYL5Zw67nzPk-3T8HEEBABg6W7-UEl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722070310579-4gkn51ppf3jbvrllgha8u9m7htm3612t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
